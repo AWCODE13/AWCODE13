@@ -7,7 +7,7 @@
 
 - I’m looking to collaborate on **Web and Mobile Application Projects**
 
-- Fun fact **Usually playing CS2 or EA SPORTS FC when I'm not coding or hitting the gym.**
+- Fun fact **My best bug fixes usually happen right after a quick match of FIFA or PES.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
