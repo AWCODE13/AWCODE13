@@ -1,18 +1,13 @@
-Ganti `YOUR_USERNAME` dengan `AWCODE13` pada bagian URL stats. 
-
-Gunakan kode ini:
-
-```markdown
 <h1 align="center">Hi, I'm Markian Wibowo</h1>
 
 <p align="center">
   An Information Systems student passionate about Web & App Development, exploring technologies and building digital solutions.
 </p>
 
-- I'm currently working on Personal Web & App Projects
-- I'm currently learning Laravel, Flutter, JavaScript
-- I'm looking to collaborate on Web and Mobile Application Projects
-- Fun fact: Usually playing games or hitting the gym when I'm not coding.
+- 🔭 I'm currently working on Personal Web & App Projects
+- 🌱 I'm currently learning Laravel, Flutter, JavaScript
+- 👯 I'm looking to collaborate on Web and Mobile Application Projects
+- ⚡ Fun fact: Usually playing games or hitting the gym when I'm not coding.
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -34,4 +29,3 @@ Gunakan kode ini:
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AWCODE13&show_icons=true&theme=default" />
 </p>
-```
